@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jude!<br/>
   <a href="https://github.com/TheSyAnalyst">System Analyst</a>, 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Cybersecurity Professional</a>, 
+  <a href="https://www.linkedin.com/in/judewalinc/">Cybersecurity Professional</a>, 
   <a href="https://www.youtube.com/c/YOUR-YOUTUBE-CHANNEL">IS Consultant & Tech YouTuber</a>
 </h1>
 
