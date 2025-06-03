@@ -7,18 +7,18 @@
 <h2>👨‍💻 Cybersecurity & System Projects</h2>
 
 - <b>Active Directory Home Lab (Windows Server)</b><br/>
-  🔗 <a href="https://github.com/TheSyAnalyst/AD-Home-Lab">View Project</a>
+  🔗 <a href="https://github.com/TheSyAnalyst/ActiveDirectoryLab">View Project</a>
 
 - <b>Ransomware Simulation in Python (Educational)</b><br/>
-  🔗 <a href="https://github.com/TheSyAnalyst/Python-Ransomware-Sim">View Project</a>
+  🔗 <a href="https://github.com/TheSyAnalyst/Ransomware-Simulation-in-Python-Educational-">View Project</a>
 
 - <b>Ubuntu File Server with SMB/NFS + Firewall</b><br/>
-  🔗 <a href="https://github.com/TheSyAnalyst/Ubuntu-File-Server">View Project</a>
+  🔗 <a href="https://github.com/TheSyAnalyst/Ubuntu-File-Server-with-SMB-NFS-Firewall">View Project</a>
 
 - <b>PowerShell Automation Tools</b><br/>
-  🔹 <a href="https://github.com/TheSyAnalyst/AD-Bulk-User-Script">AD Bulk User Creation</a><br/>
-  🔹 <a href="https://github.com/TheSyAnalyst/FIM-Powershell">File Integrity Monitor</a><br/>
-  🔹 <a href="https://github.com/TheSyAnalyst/RDP-Geo-Tracker">Geo IP from Event Logs</a>
+  🔹 <a href="https://github.com/TheSyAnalyst/PowerShell-Automation-Tools">AD Bulk User Creation</a><br/>
+  🔹 <a href="https://github.com/TheSyAnalyst/PowerShell-Automation-Tools">File Integrity Monitor</a><br/>
+  🔹 <a href="https://github.com/TheSyAnalyst/PowerShell-Automation-Tools">Geo IP from Event Logs</a>
 
 ---
 
